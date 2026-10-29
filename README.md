@@ -4,9 +4,9 @@
 
 **M.S. in Artificial Intelligence · Columbia University**
 
-Robotics & Perception · Expected December 2027
+Expected December 2027
 
-AI/ML engineering · Reliable language model systems · Robotics
+AI/ML engineering · Robotics
 
 [LinkedIn](https://www.linkedin.com/in/nikillan-rajesh/) · [Projects](https://github.com/Nikillanr?tab=repositories)
 
